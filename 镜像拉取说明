@@ -1,0 +1,4 @@
+docker pull crpi-sfyfqnjbx1zmx9v1.cn-hangzhou.personal.cr.aliyuncs.com/agent-repository/base:1.0
+docker pull crpi-sfyfqnjbx1zmx9v1.cn-hangzhou.personal.cr.aliyuncs.com/agent-repository/command:1.0
+docker pull crpi-sfyfqnjbx1zmx9v1.cn-hangzhou.personal.cr.aliyuncs.com/agent-repository/doc:1.0
+docker pull crpi-sfyfqnjbx1zmx9v1.cn-hangzhou.personal.cr.aliyuncs.com/agent-repository/storage:1.0
